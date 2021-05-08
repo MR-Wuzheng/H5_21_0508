@@ -1,1 +1,2 @@
 betterGold.txt v1
+betterGold.txt v2
